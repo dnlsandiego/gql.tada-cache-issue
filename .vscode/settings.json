@@ -1,0 +1,5 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "explorer.confirmDelete": false,
+  "explorer.confirmUndo": "default"
+}
